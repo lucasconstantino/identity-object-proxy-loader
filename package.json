@@ -1,0 +1,18 @@
+{
+  "name": "identity-object-proxy-loader",
+  "version": "0.1.0",
+  "description": "Identity object proxy loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "identity",
+    "object",
+    "proxy"
+  ],
+  "author": "Lucas Constantino Silva",
+  "license": "MIT"
+}
