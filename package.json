@@ -14,5 +14,8 @@
     "proxy"
   ],
   "author": "Lucas Constantino Silva",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "identity-obj-proxy": "^3.0.0"
+  }
 }
